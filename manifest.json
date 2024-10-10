@@ -1,0 +1,16 @@
+{
+  "short_name": "DEFI DEVCOIN",
+  "name": "DEFI DEVCOIN",
+  "description": "Farm DEVCOIN with DEVELOPER COIN LP Tokens",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": "https://defi.devcoinx.top/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
